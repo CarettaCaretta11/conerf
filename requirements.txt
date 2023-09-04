@@ -23,7 +23,7 @@ jupyter
 ipywidgets
 ipykernel
 git+https://github.com/google/nerfies.git@v2
-"git+https://github.com/google/nerfies.git#egg=pycolmap&subdirectory=third_party/pycolmap"
+git+https://github.com/google/nerfies.git#egg=pycolmap&subdirectory=third_party/pycolmap
 tensorflow_graphics
 mediapipe
 pyyaml
